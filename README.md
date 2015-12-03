@@ -1,2 +1,2 @@
 # dataincubator
-My first repository about data incubator
+My first repository
